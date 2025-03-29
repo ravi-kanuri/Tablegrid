@@ -3,7 +3,7 @@
 This is a React application built with Vite and deployed on [Render](https://render.com/). The project includes API calls to ReqRes and follows best practices for a modern front-end setup.
 
 ## 🚀 Live Demo
-[Click Here to View the Live App](https://tablegrid.onrender.com/Auth) *(Replace with your actual Render URL)*
+[Click Here to View the Live App](https://tablegrid.onrender.com/) 
 
 
 ## 🛠️ Technologies Used
