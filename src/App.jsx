@@ -1,6 +1,6 @@
 import "./App.css";
-import AuthPage from "./pages/AuthPage";
-import HomePage from "./pages/HomePage";
+import AuthPage from "./pages/Authpage";
+import HomePage from "./pages/Homepage";
 import { useSelector, useDispatch } from "react-redux";
 import { Routes, Route,Navigate  } from "react-router-dom";
 import { Toaster } from "react-hot-toast";
